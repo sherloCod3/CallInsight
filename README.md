@@ -29,3 +29,10 @@ Eu criei um banco de dados com uma simulação gerada de atendimentos, caso dese
 - Criar dashboards personalizados no Power BI para fornecer informações em tempo real aos gestores e tomadores de decisão.
 - Implementar automação em Python para agilizar a coleta, processamento e análise contínua dos dados do call center.
 - Este projeto não apenas oferecerá uma análise aprofundada, mas também proporcionará uma base sólida para a implementação de estratégias proativas, impulsionando a eficiência e a qualidade nas operações do call center.
+
+## :desktop_computer:‎ <samp>Screenshot:</samp>
+|![Screenshot 2024-01-18 145803](https://github.com/sherloCod3/CallInsight/assets/107740398/c9f9e0eb-b2ce-4ef5-b238-458b758195e4)|
+|---|
+|![Screenshot 2024-01-18 150440](https://github.com/sherloCod3/CallInsight/assets/107740398/50d601bb-5d65-466f-85fc-80ae2cff9bb3)|
+|---|
+

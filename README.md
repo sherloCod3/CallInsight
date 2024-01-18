@@ -1,6 +1,6 @@
 # "CallCenter Insights Project" 
 
-Este projeto visa realizar uma análise abrangente dos dados `automaticamente, aleatoriamente e infinitamente gerados via script` por um call center, utilizando uma abordagem eficiente com Python, MSSQL Server e Power BI. Por meio da integração dessas poderosas ferramentas, nosso objetivo é extrair insights valiosos das interações do call center, proporcionando uma compreensão aprofundada do desempenho, padrões de chamadas, e tendências significativas. 
+Este projeto visa realizar uma análise abrangente dos dados `automaticamente, aleatoriamente e infinitamente gerados via script` por um call center, utilizando uma abordagem eficiente com Python, MSSQL Server e Power BI. Por meio da integração dessas poderosas ferramentas, meu objetivo é extrair insights valiosos das interações do call center, proporcionando uma compreensão aprofundada do desempenho, padrões de chamadas, e tendências significativas. 
 
 ## :bar_chart: <samp>Dados Utilizados:</samp>
 Os dados utilizados, como informado anteriormente, são gerados a partir de um script em Python. São dados fictícios e inseridos nas tabelas do MSSQL Server para que, automaticamente e dinamicamente, a cada 1 segundo, sejam inseridos simualações de atendimentos nas tabelas do SQL Server, alimentando o dashboard do Power BI.
